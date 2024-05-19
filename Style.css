@@ -1,0 +1,17 @@
+.bag{
+    
+    display: flex;
+    justify-content: start;
+    gap: 5px;
+    align-items: center;
+    
+}
+.bag span{
+    
+    font-size: 1rem;
+    
+
+}
+body{
+    margin: 10px;
+}
